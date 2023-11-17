@@ -1,0 +1,2 @@
+# PromotionLandingRedirect
+Repository to redirect
